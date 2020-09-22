@@ -7,3 +7,5 @@
 - [Mouse Pet](https://github.com/SrKomodo/mouse-pet): A Webextension that adds a little snake following your cursor
 - [Ultimate Tetris](https://gitlab.com/SrKomodo/ultimate_tetris): A tetris clone written in Rust
 - [Timer](https://gitlab.com/SrKomodo/timer): A pretty simple pomodoro timer, with a very unoriginal name
+
+Besides Github, I also host some of my code on [Gitlab](https://gitlab.com/SrKomodo).
