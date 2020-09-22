@@ -1,3 +1,5 @@
+(Besides Github, I also host some of my code on [Gitlab](https://gitlab.com/SrKomodo))
+
 ### Stuff I made/co-created that I think is cool:
 
 - [Easy RSS](https://github.com/SrKomodo/easy-rss): A Webextension for reading RSS feeds
@@ -9,4 +11,9 @@
 - [Ultimate Tetris](https://gitlab.com/SrKomodo/ultimate_tetris): A tetris clone written in Rust
 - [Timer](https://gitlab.com/SrKomodo/timer): A pretty simple pomodoro timer, with a very unoriginal name
 
-Besides Github, I also host some of my code on [Gitlab](https://gitlab.com/SrKomodo).
+### I also do 3D art in [Blender](https://www.blender.org/) sometimes!
+
+- [You Are Under Arrest](https://youtu.be/26tWDOXJS8Q)
+- [David In The Dunes](https://youtu.be/R1wG3nbZxeU)
+- [Ezequiel's Vision](https://youtu.be/R3gDeVX_8Gc)
+- [Turbulent State Of Mind](https://youtu.be/kXS5Cg0fFFQ)
